@@ -1,0 +1,8 @@
+projects:
+  -
+    name: Team per la Trasformazione Digitale
+    description: "Team per la Trasformazione Digitale"
+    website: https://teamdigitale.governo.it/
+    documents:
+      - primi-due-anni-docs
+    logo: assets/images/dt-logo.jpg
