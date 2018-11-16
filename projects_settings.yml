@@ -1,6 +1,5 @@
 projects:
-  -
-    name: Team per la Trasformazione Digitale
+  - name: Team per la Trasformazione Digitale
     description: "Team per la Trasformazione Digitale"
     website: https://teamdigitale.governo.it/
     documents:
