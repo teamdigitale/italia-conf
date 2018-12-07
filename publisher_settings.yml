@@ -1,8 +1,8 @@
 publisher:
   name: Team per la Trasformazione Digitale 
-  short_name: Team Digitale
-  description: "Team per la Trasformazione Digitale"
+  description: Team per la Trasformazione Digitale
   logo: assets/images/dt-logo.jpg
   website: https://teamdigitale.governo.it/
+  short_name: Team Digitale
   tags:
-    - team-digitale
+    - teamdigitale
